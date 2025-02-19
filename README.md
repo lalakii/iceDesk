@@ -19,6 +19,6 @@
 
 ## 下载地址
 
-[Github](https://github.com/lalakii/iceDesk/releases) | [Mirror](https://mirros.lalaki.cn)
+[Github](https://github.com/lalakii/iceDesk/releases) | [Mirror](https://mirrors.lalaki.cn)
 
 ## By lalaki.cn
