@@ -1,6 +1,6 @@
 <div align="center"><img src="https://mirrors.lalaki.cn/icon.png" width="64" alt="iceDesk"></div>
 
-一个简单的安卓桌面App，支持配合冰箱、小黑屋或Shizuku来冻结、解冻App，并且冻结后桌面图标不会消失，当前版本安装包大小 624 KB，支持Android 9及以上系统。
+一个简单的安卓桌面App，支持配合冰箱、小黑屋或Shizuku来冻结、解冻App，并且冻结后桌面图标不会消失，当前版本安装包大小 641 KB，支持Android 9及以上系统。
 
 ## 功能介绍
 
