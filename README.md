@@ -22,4 +22,9 @@
 
 [Github](https://github.com/lalakii/iceDesk/releases) | [Mirror](https://mirrors.lalaki.cn)
 
+[蓝奏云备用下载1](https://a01.lanzout.com/b00y5uzoj) | [蓝奏云备用下载2](https://a01.lanzoui.com/b00y5uzoj) | [蓝奏云备用下载3](https://a01.lanzouv.com/b00y5uzoj)
+密码:2eb4
+
+[123云盘备用下载](https://www.123865.com/s/jE3Sjv-37xxd)
+
 ## By lalaki.cn
