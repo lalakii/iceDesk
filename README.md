@@ -1,6 +1,6 @@
 <div align="center"><img src="https://mirrors.lalaki.cn/icon.png" width="64" alt="iceDesk"></div>
 
-一个简单的安卓桌面App，支持配合冰箱、小黑屋或Shizuku来冻结、解冻App，并且冻结后桌面上的图标不会消失，当前版本安装包大小 751 KB，支持Android 9及以上系统。
+一个简单的安卓桌面App，支持配合冰箱、小黑屋或Shizuku来冻结、解冻App，并且冻结后桌面上的图标不会消失，当前版本安装包大小 763 KB，支持Android 9及以上系统。
 
 ## 功能介绍
 
@@ -13,7 +13,7 @@
 + 侧滑应用列表功能，在屏幕一侧滑动可以快捷切换到指定App
 + 支持音量键唤醒屏幕（需要Shizuku）
 + 位于桌面时，按下音量-键可以隐藏桌面，双击音量-键恢复
-+ 集成了接收短信的功能，关键词拦截短信（发短信正在制作中）
++ 集成了发送/接收短信的功能，关键词拦截短信，短信转发至邮箱
 
 ## 屏幕截图
 ![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg)
