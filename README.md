@@ -17,6 +17,7 @@
 + 支持音量键唤醒屏幕（需要Shizuku）
 + 位于桌面时，按下音量-键可以隐藏桌面，双击音量-键恢复
 + 集成了发送/接收短信的功能，关键词拦截短信，短信转发至邮箱
++ 自动接听电话
 
 ## 屏幕截图
 ![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg)
