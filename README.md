@@ -29,9 +29,9 @@
 
 ## 下载地址
 
-[Github](https://github.com/lalakii/iceDesk/releases) | [Lalaki 自建下载点](https://mirrors.lalaki.cn)
+[就在 Github 下载(推荐)](https://github.com/lalakii/iceDesk/releases) | [到 Lalaki 的网站下载](https://mirrors.lalaki.cn)
 
-## 备用下载地址，这些云盘可能需要注册登录才能下载，请知悉，蓝奏云也无法直接下载apk了
+**下面是备用下载地址，注意：这些云盘可能需要注册登录才能下载，蓝奏云也无法直接下载 apk 了，请知悉**
 
 [蓝奏云备用下载1](https://a01.lanzout.com/b00y5uzoj) | [蓝奏云备用下载2](https://a01.lanzoui.com/b00y5uzoj) | [蓝奏云备用下载3](https://a01.lanzouv.com/b00y5uzoj)
 密码:2eb4
