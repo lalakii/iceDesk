@@ -3,7 +3,7 @@
 [![Android: 9+ (shields.io)](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
 [![Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total)](https://github.com/lalakii/iceDesk/releases)
 
-一个简单的安卓 Launcher App，核心功能是配合冰箱、小黑屋或 Shizuku 冻结、解冻 App。在冻结 App 之后，桌面上的图标不会消失！当前版本安装包大小 860 KB，支持 Android 9 或更高版本系统。
+一个简单的安卓 Launcher 应用，iceDesk 的核心功能是配合冰箱、小黑屋或 Shizuku 冻结、解冻 App。并且在冻结 App 之后，桌面上的图标不会消失！当前版本安装包大小 860 KB，支持 Android 9 或更高版本系统。
 
 ## 为什么没有源码？
 由于保管不善部分源码丢失，无法复现，但愿以后有时间重构。
