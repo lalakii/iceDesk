@@ -1,6 +1,9 @@
-<div align="center"><img src="https://mirrors.lalaki.cn/icon.png" width="64" alt="iceDesk"></div>
+# iceDesk 26 [<img src="https://mirrors.lalaki.cn/icon.png" width="64" alt="iceDesk 26">](https://github.com/lalakii/iceDesk/releases)
 
-一个简单的安卓桌面App，支持配合冰箱、小黑屋或Shizuku来冻结、解冻App，并且冻结后桌面上的图标不会消失，当前版本安装包大小 860 KB，支持Android 9及以上系统。
+[![Android: 9+ (shields.io)](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
+[![Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total)](https://github.com/lalakii/iceDesk/releases)
+
+一个简单的安卓Launcher App，核心功能是配合冰箱、小黑屋或 Shizuku 冻结、解冻App。在冻结App之后，桌面上的图标不会消失！当前版本安装包大小 860 KB，支持 Android 9 或更高版本系统。
 
 ## 为什么没有源码？
 由于保管不善部分源码丢失……无法复现，只能寄希望于以后有时间再重构了
@@ -24,12 +27,6 @@
 + 集成了一个 Uperf 模块模式调节的选项, 支持自定义模式, 息屏时切换到自定义模式
 + 桌面上的"一键锁屏"图标，长按有几个便捷的菜单，进入桌面设置，打开浏览器等…
 
-## 屏幕截图
-![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg)
-
-
-![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo2.jpg)
-
 ## 下载地址
 
 [Github](https://github.com/lalakii/iceDesk/releases) | [Lalaki 自建下载点](https://mirrors.lalaki.cn)
@@ -41,4 +38,11 @@
 
 [123云盘备用下载](https://www.123865.com/s/jE3Sjv-37xxd)
 
+## 屏幕截图
+![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg)
+
+![iceDesk app](https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo2.jpg)
+
 ## By lalaki.cn
+
+[i@lalaki.cn](mailto:i@lalaki.cn)
