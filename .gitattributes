@@ -1,0 +1,2 @@
+*.doc !text !diff !merge
+*.zip linguist-language=Kotlin
