@@ -3,15 +3,15 @@
 [![Android: 9+ (shields.io)](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
 [![Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total)](https://github.com/lalakii/iceDesk/releases)
 
-一个简单的安卓Launcher App，核心功能是配合冰箱、小黑屋或 Shizuku 冻结、解冻App。在冻结App之后，桌面上的图标不会消失！当前版本安装包大小 860 KB，支持 Android 9 或更高版本系统。
+一个简单的安卓 Launcher App，核心功能是配合冰箱、小黑屋或 Shizuku 冻结、解冻 App。在冻结 App 之后，桌面上的图标不会消失！当前版本安装包大小 860 KB，支持 Android 9 或更高版本系统。
 
 ## 为什么没有源码？
-由于保管不善部分源码丢失……无法复现，只能寄希望于以后有时间再重构了
+由于保管不善部分源码丢失，无法复现，但愿以后有时间重构。
 
 ## 为什么没有小部件、分页、文件夹归类等实现？
-这个桌面最初是为我的备用机打造的，不需要太多App和花里胡哨的功能，所以没有考虑做这些。
+这个桌面最初是为我的备用机打造，不需要太多 App 和花里胡哨的功能，所以没有考虑做这些。
 
-## 功能介绍
+## 主要功能介绍（还有一些好玩的功能等你发现）
 
 + 单击桌面时钟组件，打开系统自带时钟App
 + 双击桌面时钟组件，进入iceDesk的设置界面
