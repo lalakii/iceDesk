@@ -1,7 +1,7 @@
 # iceDesk 26 [<img src="https://mirrors.lalaki.cn/icon.png" width="64" alt="iceDesk 26" align="top">](https://github.com/lalakii/iceDesk/releases)
 
 [![Android: 9+](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
-[![GitHub Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total?color=2f9b45&logo=github)](https://github.com/lalakii/iceDesk/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total?logo=github)](https://github.com/lalakii/iceDesk/releases)
 
 **iceDesk** 是一款极致轻量、极简纯粹的安卓桌面（Launcher）应用。它的核心使命是完美配合 **冰箱**、**小黑屋** 或 **Shizuku** 进行应用冷冻。
 
