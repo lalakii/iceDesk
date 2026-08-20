@@ -13,7 +13,7 @@
 * **软件包名**：`cn.lalaki.desk`
 * **软件大小**：**876 KB**
 * **系统要求**：Android 9 及更高版本系统。
-* **下载地址**：[立即下载](https://github.com/lalakii/iceDesk/master/README.md#%E9%A6%96%E9%80%89%E5%9C%B0%E5%9D%80)
+* **下载地址**：[立即下载](./README.md#%E9%A6%96%E9%80%89%E5%9C%B0%E5%9D%80)
 
 ---
 
