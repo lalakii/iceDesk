@@ -81,4 +81,4 @@
 Email: [i@lalaki.cn](mailto:i@lalaki.cn)
 
 ***
-<sub>*This README was optimized with ❤️ by Gemini.*</sub>
+<sub>*This README was optimized with ❤️ by [Gemini](https://gemini.google.com/).*</sub>
