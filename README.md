@@ -3,10 +3,10 @@
 [![Android: 9+](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
 [![GitHub Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total?logo=github)](https://github.com/lalakii/iceDesk/releases)
 
-**iceDesk** 是一款极致轻量、极简纯粹的安卓桌面（Launcher）应用。它的核心功能是完美配合 **冰箱**、**小黑屋** 或 **Shizuku** 进行应用冻结与解冻。
+**iceDesk** 是一个极致轻量、极简纯粹的安卓桌面（Launcher）应用。它的核心功能是配合 **冰箱**、**小黑屋** 或 **Shizuku** 进行应用冻结与解冻。
 
 ✨ **核心痛点解决**
-* ❌ **传统桌面痛点**：配合冷冻应用使用时，桌面图标会立刻消失，寻找极不方便，解冻后图标顺序还会被打乱。
+* ❌ **传统桌面痛点**：冻结应用后，桌面图标会立刻消失，寻找极不方便，解冻后图标顺序还会被打乱。
 * ✅ **iceDesk 桌面**：在冻结 App 之后，**桌面上的图标依然完好保留**，绝不消失！
 
 📦 **应用信息**
