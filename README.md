@@ -68,8 +68,10 @@
 ## 📱 屏幕截图
 
 <p align="center">
-  <img src="https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg" alt="iceDesk 截图 1" width="45%" />
-  <img src="https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo2.jpg" alt="iceDesk 截图 2" width="45%" />
+  <img src="https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo.jpg" alt="iceDesk 截图 1" />
+</p>
+<p align="center">
+  <img src="https://fastly.jsdelivr.net/gh/lalakii/iceDesk@master/demo2.jpg" alt="iceDesk 截图 2" />
 </p>
 
 ---
