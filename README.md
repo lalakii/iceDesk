@@ -1,4 +1,4 @@
-# iceDesk 26 [<img src="https://mirrors.lalaki.cn/misc/iceDesk_Logo/icon.png" width="64" alt="iceDesk 26" align="top">](https://github.com/lalakii/iceDesk/releases)
+# iceDesk 26 [<img src="https://mirrors.lalaki.cn/misc/iceDesk_logo/icon.png" width="64" alt="iceDesk 26" align="top">](https://github.com/lalakii/iceDesk/releases)
 
 [![Android: 9+](https://img.shields.io/badge/Android-9+-2f9b45?logo=android)](https://mirrors.lalaki.cn) 
 [![GitHub Downloads](https://img.shields.io/github/downloads/lalakii/iceDesk/total?logo=github)](https://github.com/lalakii/iceDesk/releases)
