@@ -56,7 +56,7 @@
 
 ### 首选地址
 * [GitHub Releases (推荐)](https://github.com/lalakii/iceDesk/releases)
-* [Lalaki 镜像站](https://mirrors.lalaki.cn)
+* [Lalaki 镜像站](https://lalaki.cn/m/)
 
 ### 备用网盘
 *注意：这些云盘可能需要登录，且蓝奏云因策略调整无法直接下载 apk，请根据实际情况选择：*
